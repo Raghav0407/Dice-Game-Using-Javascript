@@ -35,3 +35,4 @@ if(randomnumber1===randomnumber2)
     document.querySelector("h1").innerHTML="DRAW";
     
 }
+
